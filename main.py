@@ -6,7 +6,5 @@
 # output= json
 # region = us-east-2
 
-is_suuny = True
-print(is_suuny)
-print(is_suuny)
-print(is_suuny)
+is_sunny =True
+
