@@ -6,5 +6,5 @@
 # output= json
 # region = us-east-2
 
-is_sunny =True
+is_sunny =False
 
