@@ -2,8 +2,7 @@
 
 # [default]
 
-aws_secret_access_key = Kf3214515kfnew42523ffsgsdgdsgfsdgsdgs52
-output= json
+aws_secret_access_key = Kf3214515kfnew4252
 region = us-east-2
 
 
