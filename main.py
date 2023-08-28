@@ -9,3 +9,4 @@
 is_suuny = True
 print(is_suuny)
 print(is_suuny)
+print(is_suuny)
